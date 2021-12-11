@@ -1,0 +1,2 @@
+<p>AJAX nije novi programski jezik.</p>
+<p>AJAX je tehnika za kreiranje brzih i dinamickih veb stranica.</p>
